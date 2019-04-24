@@ -1,0 +1,30 @@
+:root{
+    font-size:24px;
+}
+.container{
+    color:white;
+    text-align:center;
+}
+.title{
+   text-align:Center;
+}
+.name{
+
+}
+.temperature{
+    color:rgb(243, 187, 66);
+}
+.weather{}
+.icon{
+    width:20vw;
+}
+@media (min-width:400px){
+    :root{
+        font-size:28px;
+    }
+}
+@media (min-width:600px){
+    :root{
+        font-size:32px;
+    }
+}
